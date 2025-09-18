@@ -173,7 +173,7 @@ sort_order:
     category: date-reverse # controlled by categories_weight
     tag: date-reverse # controlled by tags_weight
   archive: date-reverse # controlled by weight
-  home: default # controlled by weight
+  home: 默认 # controlled by weight
 
 ########################################
 # CSS
@@ -293,7 +293,7 @@ math:
 comment:
   # comment system title
   title:
-    en: Leave a comment
+    en: 发表评论
     zh-CN: 说些什么吧！
     zh-TW: 說些什麼吧！
     ja: コメントを残す
@@ -380,7 +380,7 @@ algolia_search:
   enable: true
   appID: 8JZJLKGQ98
   apiKey: 0042cd17482f2e1fa3777a8d1b83c632
-  indexName: search
+  indexName: algolia
   hits:
     per_page: 10
 
