@@ -378,9 +378,9 @@ giscus:
 
 algolia_search:
   enable: true
-  appID: 8JZJLKGQ98
-  apiKey: 0042cd17482f2e1fa3777a8d1b83c632
-  indexName: algolia
+  appID: 
+  apiKey: 
+  indexName: 
   hits:
     per_page: 10
 
